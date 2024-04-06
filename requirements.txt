@@ -1,0 +1,5 @@
+pandas==2.0.1
+numpy==1.23.5
+streamlit==1.29.0
+sentence-transformers==2.6.1
+elasticsearch==8.13.0
